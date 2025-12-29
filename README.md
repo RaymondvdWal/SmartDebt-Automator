@@ -1,8 +1,8 @@
 # 🚀 SmartDebt Automator (2026)
 
-[![Stack](img.shields.io)](github.com)
-[![License](img.shields.io)](LICENSE)
-[![Security](img.shields.io)](spring.io)
+<img src="img.shields.io_|_Flutter-blue?style=flat-square" alt="Stack">
+<img src="img.shields.io" alt="License">
+<img src="img.shields.io" alt="Security">
 
 **SmartDebt Automator** is een volgende generatie fintech-applicatie die schuldenbeheer transformeert van passieve administratie naar actieve, AI-gestuurde automatisering. Gebouwd met een robuuste Java-backend en een vloeiende Flutter-frontend, helpt deze app gebruikers sneller schuldenvrij te worden door middel van real-time bankkoppelingen en intelligente aflosstrategieën.
 
